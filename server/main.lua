@@ -34,7 +34,7 @@ local function Vente(source)
     local Quantity = xPlayer.getInventoryItem(Config.Zones.Vente.ItemRequires).count
 
     if Quantity < Config.Zones.Vente.ItemRemove then
-      TriggerClientEvent('esx:showNotification', _source, '~r~Vous n\'avez plus de '..Config.Zones.Vente.ItemRequires_name..' a vendre.')
+      TriggerClientEvent('esx:showNotification', _source, '~r~Vous n\'avez plus de '..Config.Zones.Vente.ItemRequires_name..' à déposer.')
       PlayersVente[_source] = false
     else
       local amount = Config.Zones.Vente.ItemRemove

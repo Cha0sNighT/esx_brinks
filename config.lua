@@ -179,28 +179,28 @@ Config.Uniforms = {
 
   job_wear = {
     male = {
-        ['tshirt_1'] = 58, ['tshirt_2'] = 0,
-		['torso_1'] = 95, ['torso_2'] = 1,
+    ['tshirt_1'] = 130, ['tshirt_2'] = 0,
+		['torso_1'] = 248, ['torso_2'] = 15,
 		['decals_1'] = 0, ['decals_2'] = 0,
-		['arms'] = 11,
-		['pants_1'] = 35, ['pants_2'] = 0,
-		['shoes_1'] = 25, ['shoes_2'] = 0,
+		['arms'] = 35,
+		['pants_1'] = 98, ['pants_2'] = 23,
+		['shoes_1'] = 55, ['shoes_2'] = 5,
 		['helmet_1'] = -1, ['helmet_2'] = 0,
 		['chain_1'] = 0, ['chain_2'] = 0,
 		['ears_1'] = -1, ['ears_2'] = 0,
-    	['bproof_1'] = 11, ['bproof_2'] = 1
+    	['bags_1'] = 45, ['bags_2'] = 0
     },
     female = {
-        ['tshirt_1'] = 152, ['tshirt_2'] = 0,
-		['torso_1'] = 103, ['torso_2'] = 3,
+        ['tshirt_1'] = 160, ['tshirt_2'] = 0,
+		['torso_1'] = 256, ['torso_2'] = 15,
 		['decals_1'] = 0, ['decals_2'] = 0,
-		['arms'] = 3,
-		['pants_1'] = 30, ['pants_2'] = 0,
-		['shoes_1'] = 25, ['shoes_2'] = 0,
+		['arms'] = 18,
+		['pants_1'] = 101, ['pants_2'] = 23,
+		['shoes_1'] = 58, ['shoes_2'] = 5,
 		['helmet_1'] = -1, ['helmet_2'] = 0,
 		['chain_1'] = 0, ['chain_2'] = 0,
 		['ears_1'] = -1, ['ears_2'] = 0,
-		['bproof_1'] = 11, ['bproof_2'] = 1
+		['bags_1'] = 45, ['bags_2'] = 0
     }
   },
 }
